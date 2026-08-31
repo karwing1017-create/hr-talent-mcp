@@ -1,0 +1,25 @@
+# 本地密钥与环境配置
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+
+# 虚拟环境
+.venv/
+venv/
+
+# 构建输出
+build/
+dist/
+*.egg-info/
+
+# 日志和编辑器
+*.log
+.vscode/
+.idea/

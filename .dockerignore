@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+test_*.py
+explore_data.py
+.env
+.gitignore
